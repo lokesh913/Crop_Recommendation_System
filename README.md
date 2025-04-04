@@ -45,7 +45,7 @@ Crop_Recommendation-main/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/lokesh913/Crop_Recommendation_System.git>
 cd Crop_Recommendation-main
 ```
 
