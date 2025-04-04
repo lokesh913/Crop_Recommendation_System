@@ -46,7 +46,7 @@ Crop_Recommendation-main/
 1. Clone the repository:
 ```bash
 git clone <https://github.com/lokesh913/Crop_Recommendation_System.git>
-cd Crop_Recommendation-main
+cd Crop_Recommendation_System
 ```
 
 2. Create and activate a virtual environment:
